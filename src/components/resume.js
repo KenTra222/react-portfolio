@@ -39,25 +39,24 @@ class Resume extends Component {
 
 
             <Education
-              startYear={2002}
-              endYear={2006}
-              schoolName="My University"
-              schoolDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+              startYear={2020}
+              endYear={2022}
+              schoolName="Scrimba"
+              schoolDescription="An interactive online course that teaches through project based learning. Students can interact with the code right on the video"
                />
 
                <Education
-                 startYear={2007}
-                 endYear={2009}
-                 schoolName="My 2nd University"
-                 schoolDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-                  />
+                 startYear={2022}
+                 endYear={2022}
+                 schoolName="EDX.org"
+                 schoolDescription="online educational platform to learn trades of multiple industries."                  />
                 <hr style={{borderTop: '3px solid #e22947'}} />
 
               <h2>Experience</h2>
 
             <Experience
-              startYear={2009}
-              endYear={2012}
+              startYear={2022}
+              endYear={2022}
               jobName="First Job"
               jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
               />
